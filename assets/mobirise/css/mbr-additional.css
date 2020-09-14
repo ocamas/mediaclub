@@ -811,12 +811,12 @@ section.lazy-placeholder:after {
 .cid-s6Qyvo72Bk .navbar .mbr-overlay {
   z-index: -1;
   transition: all .3s;
-  background: #232323;
+  background: #03426a;
   background: none;
 }
 .cid-s6Qyvo72Bk .navbar.opened .mbr-overlay {
   transition: all .3s;
-  background: #232323 !important;
+  background: #03426a !important;
 }
 .cid-s6Qyvo72Bk .navbar .dropdown-item {
   padding: .25rem 1.5rem;
@@ -955,7 +955,7 @@ section.lazy-placeholder:after {
   min-height: 60px;
 }
 .cid-s6Qyvo72Bk .navbar.navbar-short .mbr-overlay {
-  background: #232323 !important;
+  background: #03426a !important;
 }
 .cid-s6Qyvo72Bk .navbar.navbar-short .navbar-logo img {
   height: 3rem !important;
@@ -993,7 +993,7 @@ section.lazy-placeholder:after {
   padding: 0.667em 1.667em;
 }
 .cid-s6Qyvo72Bk .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #232323;
+  background: #03426a;
 }
 .cid-s6Qyvo72Bk .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1178,7 +1178,7 @@ section.lazy-placeholder:after {
 .cid-s6TXLJpei8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #fdfdfd;
 }
 .cid-s6TXLJpei8 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1309,7 +1309,7 @@ section.lazy-placeholder:after {
   display: inline-block;
 }
 .cid-s77XRReRRa {
-  padding-top: 30px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1404,8 +1404,8 @@ section.lazy-placeholder:after {
 }
 .cid-s77XHu8w5A {
   padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #282124;
+  padding-bottom: 60px;
+  background-color: #03426a;
 }
 .cid-s77XHu8w5A .row {
   justify-content: space-between;
@@ -1529,15 +1529,15 @@ section.lazy-placeholder:after {
 .cid-s6U6ZkJNxK H2 {
   color: #2c2c2c;
 }
-.cid-s9LpfSaKe1 {
+.cid-sawHEsJMPV {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #232323;
 }
-.cid-s9LpfSaKe1 a:link {
+.cid-sawHEsJMPV a:link {
   text-decoration: none;
 }
-.cid-s9LpfSaKe1 .icon-transition span {
+.cid-sawHEsJMPV .icon-transition span {
   padding: 0.1rem 0.9rem;
   border-radius: 50%;
   color: #ffffff;
@@ -1550,31 +1550,31 @@ section.lazy-placeholder:after {
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
-.cid-s9LpfSaKe1 .icon-transition span:hover {
+.cid-sawHEsJMPV .icon-transition span:hover {
   background-color: #00b15c;
 }
-.cid-s9LpfSaKe1 .social-media ul {
+.cid-sawHEsJMPV .social-media ul {
   margin: 0;
   padding: 0;
   margin-bottom: 8px;
 }
-.cid-s9LpfSaKe1 .social-media ul li {
+.cid-sawHEsJMPV .social-media ul li {
   padding: 4px;
   display: inline-block;
 }
-.cid-s9LpfSaKe1 .foot-menu {
+.cid-sawHEsJMPV .foot-menu {
   -webkit-flex-direction: row;
   flex-direction: row;
   margin: 0;
   margin-bottom: 8px;
   padding: .6em 0;
 }
-.cid-s9LpfSaKe1 .foot-menu > li {
+.cid-sawHEsJMPV .foot-menu > li {
   font-size: 14px;
   padding: 0;
   display: inline-block;
 }
-.cid-s9LpfSaKe1 .foot-menu > li .rhombus {
+.cid-sawHEsJMPV .foot-menu > li .rhombus {
   width: 0;
   height: 0;
   right: 4px;
@@ -1583,7 +1583,7 @@ section.lazy-placeholder:after {
   position: relative;
   top: -19px;
 }
-.cid-s9LpfSaKe1 .foot-menu > li .rhombus::after {
+.cid-sawHEsJMPV .foot-menu > li .rhombus::after {
   width: 0;
   height: 0;
   content: '';
@@ -1593,29 +1593,29 @@ section.lazy-placeholder:after {
   border: 4px solid transparent;
   border-top-color: #444444;
 }
-.cid-s9LpfSaKe1 .foot-menu li a {
+.cid-sawHEsJMPV .foot-menu li a {
   font-family: 'OpenSans', sans-serif;
   display: inline-block;
   letter-spacing: 2px;
   padding: 0 10px;
 }
-.cid-s9LpfSaKe1 .plan-title,
-.cid-s9LpfSaKe1 .text-letter {
+.cid-sawHEsJMPV .plan-title,
+.cid-sawHEsJMPV .text-letter {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   font-weight: 600;
 }
-.cid-s9LpfSaKe1 .plan-title {
+.cid-sawHEsJMPV .plan-title {
   color: #444444;
 }
 @media (max-width: 767px) {
-  .cid-s9LpfSaKe1 .foot-menu {
+  .cid-sawHEsJMPV .foot-menu {
     padding: 15px 1rem;
   }
 }
-.cid-s9LpfSaKe1 .mbr-section-title span {
+.cid-sawHEsJMPV .mbr-section-title span {
   color: #ffbc00;
 }
-.cid-s9LpfSaKe1 .mbr-text {
+.cid-sawHEsJMPV .mbr-text {
   color: #ffffff;
 }
